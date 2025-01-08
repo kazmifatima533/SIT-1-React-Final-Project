@@ -95,7 +95,7 @@ const buildingData = [
        price: 4500000,
         location: 'SoMa, San Francisco',
          amenities: ['Indoor Pool', 'Gym', 'Private Garden', 'Valet Parking'], 
-         image: '/images/con.jpg',
+         image: '/images/coooo.jpg',
          mapUrl: 'https://maps.app.goo.gl/rnpQ9mQfCcn5Zi6RA',
          videoUrl:'https://youtu.be/U7f-YBK0xMg?si=CfzUjko1ecN62eUE'
         },
